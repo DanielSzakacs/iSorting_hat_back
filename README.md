@@ -23,6 +23,7 @@ valuable data.
 ![alt text](img/students.png)
 # Teachers 
 The teacher Entity is created and saved to your local DB right after the project is started.
+You can see the teachers names and positions in the school, and by clicking on the 'Profile' button you can find more details about their work or life.
 ![alt text](img/teachers.png)   
 # Map
 ![alt text](img/map.png)
